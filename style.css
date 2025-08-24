@@ -103,8 +103,8 @@ h1 {
     flex-direction: row;
   }
 
-  .me-xl-6 {
-    margin-right: 18% !important;
+  .me-lg-6 {
+    margin-right:18% !important;
   }
   /* .text-xl-left{
     text-align: left;
