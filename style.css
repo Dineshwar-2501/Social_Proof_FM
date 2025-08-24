@@ -7,8 +7,8 @@
 body {
   background-image: url("./images/bg-pattern-2.svg");
   background-repeat: no-repeat;
-  margin-top: 10%;
-  margin-bottom: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
   line-height: 1.5;
 
 }
@@ -60,7 +60,7 @@ h1 {
 }
 
 .container {
-  padding: 100px;
+  padding:0  100px;
   border-radius: 5px;
 }
 
