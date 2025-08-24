@@ -96,7 +96,7 @@ h1 {
   top: 40px;
 }
 
-@media (min-width:1400px) {
+@media (min-width:992px) {
 
   .flex {
     display: flex;
